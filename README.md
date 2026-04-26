@@ -49,6 +49,27 @@ analyze_project → resolve_strategy → generate_dockerfile → generate_docker
 
 ---
 
+## Installation
+
+**1. Clone the repo**
+```bash
+git clone https://github.com/ramesherrorhunter/kiro-custom-agents.git
+```
+
+**2. Copy the agent into your project**
+```bash
+cp -r kiro-custom-agents/.kiro /path/to/your/project/
+```
+
+Or copy into the current directory:
+```bash
+cp -r kiro-custom-agents/.kiro .
+```
+
+That's it — the agent and all skills are now available in your project.
+
+---
+
 ## SOP — Standard Operating Procedure
 
 ### Prerequisites
