@@ -53,7 +53,7 @@ analyze_project → resolve_strategy → generate_dockerfile → generate_docker
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/ramesherrorhunter/kiro-custom-agents.git
+git clone https://github.com/ramesherrorhunter/kiro-docker-agent.git
 ```
 
 **2. Copy the agent into your project**
